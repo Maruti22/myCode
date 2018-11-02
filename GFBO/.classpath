@@ -50,5 +50,10 @@
 	<classpathentry kind="lib" path="D:/Tools/Selenium 2.53.0/selenium-2.53.0/libs/snakeyaml-1.15.jar"/>
 	<classpathentry kind="lib" path="D:/Tools/Selenium 2.53.0/selenium-2.53.0/libs/testng-6.9.9.jar"/>
 	<classpathentry kind="lib" path="D:/Tools/Selenium 2.53.0/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/New Jars/POI/poi-3.11.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/New Jars/POI/poi-3.11-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/New Jars/POI/poi-ooxml-3.11.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/New Jars/POI/poi-ooxml-schemas-3.11.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/New Jars/xmlbeans-2.3.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
