@@ -51,7 +51,7 @@ public class GFBO
 				System.out.print("  ");
 			}
 			
-			System.out.println();
+			System.out.println("");
 		}
 		
 		
